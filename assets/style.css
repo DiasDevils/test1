@@ -1,7 +1,10 @@
-.bold {font-weight: bold;}
+/* .bold {font-weight: bold;}
 h2 {color:blue;}
 p {color:rgb(193, 107, 1)}
 div {color:rgb(23, 99, 23);}
 li {color:blueviolet;}
-.underline {text-decoration: underline;}
-body{background: rgb(206, 224, 240);}
+.underline {text-decoration: underline;} */
+body{background: rgb(206, 224, 240);
+margin:0;
+padding:0;
+font-family: 'Oswald' , sans-serif;}
