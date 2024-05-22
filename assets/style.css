@@ -16,7 +16,6 @@ nav ul {list-style: none;
         padding:0;
         margin:0;}  
 
-
 nav li {font-size: 1.2em;
         line-height: 40px;
         height: 40px;
@@ -26,3 +25,8 @@ nav li {font-size: 1.2em;
 nav a {text-decoration: none;
        color:#fff;
        display:block;}
+
+       /* when hovering only over the anchors */
+
+nav a:hover{ background-color: white;
+        color:rgb(5, 41, 99);}
