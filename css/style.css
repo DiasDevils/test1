@@ -38,6 +38,6 @@ nav a:hover{ background-color: white;
 
 .card a {text-align: center;}
 
-img {width: 100%;
+img {width: 50%;
      height:100px;}
-     h2{text-align:center;}
+     h2{text-align:left;}
